@@ -1,7 +1,5 @@
-Free discord bot site template. Not the best, but using variables so it's easy to change things on it. 
-
-To change the colors go to styles.css and change the color on main-color and --secondary. Changing the background color is also allowed, but not recomened as the text doesn't use variables, and somethings may end up looking bad.
-
-
-
-It isn't the best, but I made it in about an hour. 
+The website source code for cactus's website! 
+Made by itsHoozi, Made a bit of changes by Lunaa and Nightfury!
+Feel free to use it but make sure you give credits to the original creator (itsHoozi)
+Make sure you check out cactus's website and invite it to your server :D
+Thank you!
