@@ -1,7 +1,7 @@
 :root {
-  --main-color: #00ff00;
+  --main-color: #6ef759;
   --background: #1d1d1e;
-  --secondary: #00ff00;
+  --secondary: #6ef759;
   --link: #f54254;
   --text-color: #fff;
   --secondary-text-color: #dcdcdc;
@@ -284,5 +284,5 @@ div#features:hover {
 }
 
 .popover {
-    background: #00ff00;
+    background: #6ef759;
 }
