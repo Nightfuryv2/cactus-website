@@ -29,19 +29,3 @@ function toggleAccordion() {
   for (i = 0; i < items.length; i++) {
     items[i].setAttribute('aria-expanded', 'false');
   }
-  
-  if (itemToggle == 'false') {
-    this.setAttribute('aria-expanded', 'true');
-  }
-}
-
-items.forEach(item => item.addEventListener('click', toggleAccordion));
-
-$(document).ready(function(){
-    $('[data-toggle="popover"]').popover({
-        placement : 'right',
-		    trigger : 'hover',
-        html : true,
-        content : '<div class="media"><div class="media-body"><p>Want your server to get featured here? DM Nightfury#8615 on discord!</p></div></div>'
-    });
-});
