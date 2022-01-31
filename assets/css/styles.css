@@ -18,7 +18,7 @@ body
 }
   
 ::-webkit-scrollbar-thumb {
-   background: #6ef759;
+   background: #64fd4c;
 }
 
 #nav-bar
@@ -41,18 +41,18 @@ body
 
 .navbar-nav li a
 {
-    color: #6ef759 !important;
+    color: #64fd4c !important;
     float: right;
     text-align: left;
 }
 
 .features-boxed {
-    color: #6ef759;
-    background-color: #6ef759;
+    color: #64fd4c;
+    background-color: #64fd4c;
 }
   
 .features-boxed p {
-    color: #6ef759;
+    color: #64fd4c;
 }
   
 .features-boxed h2 {
@@ -117,7 +117,7 @@ body
 }
   
 a {
-    color: #6ef759;
+    color: #64fd4c;
 }
 
 div#features {
@@ -149,14 +149,14 @@ div#features {
     border-radius: 50%;
     box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
     margin: 0 8px;
-    color: #6ef759;
+    color: #64fd4c;
     opacity: 0.75;
     justify-content: center;
     align-items:center;
 }
   
 .footer-dark .item.social > a:hover {
-    background-color: #6ef759;
+    background-color: #64fd4c;
     color: #000000;
     box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
